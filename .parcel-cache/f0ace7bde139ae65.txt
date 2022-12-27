@@ -1,5 +1,5 @@
-10042
-24D:\Code\jsconverter\docs133166167859373433 1
+10035
+24D:\Code\jsconverter\docs133166166667020552 1
 67D:\Code\jsconverter\node_modules\@parcel\packager-html\package.json133166164007337054 0
 54D:\Code\jsconverter\node_modules\type-detect\README.md133166164068446964 0
 56D:\Code\jsconverter\node_modules\@trysound\sax\README.md133166164035227846 0
@@ -6589,7 +6589,6 @@
 73D:\Code\jsconverter\node_modules\@parcel\transformer-postcss\node_modules133166164030634431 1
 60D:\Code\jsconverter\node_modules\cosmiconfig\dist\index.d.ts133166164045464903 0
 58D:\Code\jsconverter\node_modules\@parcel\utils\src\path.js133166164032356221 0
-42D:\Code\jsconverter\docs\index.d4b8c018.js133166167848934472 0
 62D:\Code\jsconverter\node_modules\cosmiconfig\dist\loaders.d.ts133166164045495214 0
 91D:\Code\jsconverter\node_modules\@babel\plugin-proposal-async-generator-functions\README.md133166163990512871 0
 66D:\Code\jsconverter\node_modules\cosmiconfig\dist\loaders.d.ts.map133166164045495214 0
@@ -9534,7 +9533,6 @@
 77D:\Code\jsconverter\node_modules\@babel\plugin-transform-modules-commonjs\lib133166163992169673 1
 81D:\Code\jsconverter\node_modules\@babel\plugin-transform-modules-commonjs\LICENSE133166163992131045 0
 86D:\Code\jsconverter\node_modules\@babel\plugin-transform-modules-commonjs\package.json133166163992179671 0
-37D:\Code\jsconverter\docs\img\day5.jpg133166164070538110 0
 83D:\Code\jsconverter\node_modules\@babel\plugin-transform-modules-commonjs\README.md133166163992139671 0
 95D:\Code\jsconverter\node_modules\@babel\plugin-transform-modules-commonjs\lib\dynamic-import.js133166163992149683 0
 90D:\Code\jsconverter\node_modules\@babel\plugin-transform-modules-commonjs\lib\index.js.map133166163992169673 0
@@ -10022,14 +10020,9 @@
 44D:\Code\jsconverter\node_modules\.bin\terser133166163987174608 0
 48D:\Code\jsconverter\node_modules\.bin\terser.cmd133166163987174608 0
 48D:\Code\jsconverter\node_modules\.bin\terser.ps1133166163987184616 0
-28D:\Code\jsconverter\docs\img133166167859550122 1
 42D:\Code\jsconverter\docs\index.75a13df8.js133166166655230703 0
-43D:\Code\jsconverter\docs\index.d14864a1.css133166167846631115 0
-35D:\Code\jsconverter\docs\index.html133166167859349776 0
-37D:\Code\jsconverter\docs\img\day1.jpg133166164070472523 0
-37D:\Code\jsconverter\docs\img\day2.jpg133166164070482535 0
-37D:\Code\jsconverter\docs\img\day3.jpg133166164070492498 0
-37D:\Code\jsconverter\docs\img\day4.jpg133166164070502639 0
+43D:\Code\jsconverter\docs\index.d14864a1.css133166166653463870 0
+35D:\Code\jsconverter\docs\index.html133166166667000645 0
 42D:\Code\jsconverter\dist\index.09c24910.js133166167551825203 0
 46D:\Code\jsconverter\dist\index.09c24910.js.map133166167551889235 0
 47D:\Code\jsconverter\dist\index.c92073ef.css.map133166167334863621 0

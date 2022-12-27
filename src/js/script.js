@@ -46,7 +46,7 @@ window.onload = function ()
 function getImage()
 {
     const random = Math.floor(Math.random() * 5); // 5, потому что у нас 5 картинок случайных
-    return '<img src=../JS_converter/src/img/day'+(random + 1)+'.jpg alt="" />'; // подставляем в путь до картинки, + 1 потому что генерирует с 0
+    return '<img src=/img/day'+(random + 1)+'.jpg alt="" />'; // подставляем в путь до картинки, + 1 потому что генерирует с 0
 }
 
 
